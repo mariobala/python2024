@@ -1,0 +1,11 @@
+streamlit
+pandas
+resquests
+plotly	
+python-time
+pulp
+geopandas
+matplotlib
+more_itertools
+datetime
+openpyx
